@@ -3,5 +3,6 @@
     <string name="mes_notes">Mes Notes</string>
     <string name="search_note">Chercher une note</string>
     <string name="Title">Titre</string>
-    <string name="subtitle">Contenu de la note</string>
+    <string name="subtitle">Sous-Titre</string>
+    <string name="type_note_here">Contenu de la note</string>
 </resources>
