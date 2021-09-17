@@ -5,4 +5,5 @@
     <string name="Title">Titre</string>
     <string name="subtitle">Sous-Titre</string>
     <string name="type_note_here">Contenu de la note</string>
+    <string name="miscellaneous">Miscellaneous</string>
 </resources>
